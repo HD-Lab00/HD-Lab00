@@ -4,9 +4,6 @@
 
 <h1 align="center">こんにちは、GitHub の私のコーナーへようこそ。</h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=700&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=フルスタック+Web2+%2F+Web3+開発者+%7C+スケーラブルで高性能なアプリ;オートメーション+%26+Telegram+ボット+%7C+スマートなワークフロー+%26+ミニアプリ;カジノ+%26+ベッティングサイト+%7C+安全で高トラフィックなプラットフォーム;スマートコントラクト+%26+dApps+%7C+分散型で+信頼不要なソリューション" alt="Typing SVG" />
-</p>
 <p align="center">  
     <a href="https://github.com/AsaBeam?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AsaBeam&theme=onestar&no-frame=true&column=6&row=1" alt="AsaBeam"/></a>
 </p>
