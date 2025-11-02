@@ -10,19 +10,13 @@
 
 <ul align="left">
   <li>
-    <b>現在学習中</b>：Merkle 証明、スマートコントラクト高度セキュリティ、ガス最適化。
+    <b>現在学習中</b>：AIアプリ開発、機械学習統合、パフォーマンス最適化。
   </li>
   <li>
-    <b>共同開発を募集</b>：Web3 プロジェクト、Telegram ミニアプリ、自動化ソリューション。
+    <b>共同開発を募集</b>：Webアプリケーション、AIソリューション、自動化システム。
   </li>
   <li>
-    <b>得意分野</b>：MERN スタック、Next.js、TypeScript、スマートコントラクト、自動化ワークフロー、Telegram ボット。
-  </li>
-  <li>
-    <b>連絡先</b>：<a href="mailto:sharper.edge.tech@gmail.com">sharper.edge.tech@gmail.com</a>
-  </li>
-  <li>
-    <b>ひと言</b>：一度だけ手作業を避けるために自動化します。
+    <b>得意分野</b>：MERNスタック、Next.js、TypeScript、API設計、自動化ワークフロー、AI連携。
   </li>
 </ul>
 
