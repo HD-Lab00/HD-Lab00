@@ -1,11 +1,11 @@
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=AsaBeam&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0&color=0e75b6&style=flat" alt="AsaBeam" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=HD-Lab00&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0&color=0e75b6&style=flat" alt="HD-Lab00" />
 </div>
 
 <h1 align="center">こんにちは、GitHub の私のコーナーへようこそ。</h1>
 
 <p align="center">  
-    <a href="https://github.com/AsaBeam?tab=achievements"><img src="https://github-trophies.vercel.app/?username=AsaBeam&theme=onestar&no-frame=true&column=6&row=1" alt="AsaBeam"/></a>
+    <a href="https://github.com/HD-Lab00?tab=achievements"><img src="https://github-trophies.vercel.app/?username=HD-Lab00&theme=onestar&no-frame=true&column=6&row=1" alt="HD-Lab00"/></a>
 </p>
 
 <ul align="left">
@@ -102,12 +102,12 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsaBeam&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=AsaBeam%20の直近30日間のアクティビティ" width="98%" alt="@AsaBeam のアクティビティ" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HD-Lab00&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=H-D%20Lab%20の直近30日間のアクティビティ" width="98%" alt="@HD-Lab00 のアクティビティ" />
 </p>
 
 <p align="center">
- <a href="https://github.com/AsaBeam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AsaBeam&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true" width="49%" alt="GitHub 統計"/></a>
- <a href="https://github.com/AsaBeam?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=AsaBeam&theme=gotham&hide_border=true" width="49%" alt="GitHub 連続記録"/></a>
+ <a href="https://github.com/HD-Lab00?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=HD-Lab00&theme=gotham&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true" width="49%" alt="GitHub 統計"/></a>
+ <a href="https://github.com/HD-Lab00?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HD-Lab00&theme=gotham&hide_border=true" width="49%" alt="GitHub 連続記録"/></a>
 </p>
 
 <p align="center">
